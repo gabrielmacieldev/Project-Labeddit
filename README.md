@@ -1,6 +1,5 @@
 # Project-Labeddit-backend
 
-Link do repositório do frontend: https://github.com/gabrielmacieldev/project-labeddit-frontend
 
 ## 🗃️ Frontend
 [Link do repositório do frontend](https://github.com/gabrielmacieldev/project-labeddit-frontend)
