@@ -7,6 +7,29 @@
 ## 💿 Deploy 
 [Link da aplicação](https://project-labeddit-gabrielmaciel.surge.sh/)
 
+## 💻 Funcionalidades do Projeto
+
+- Endpoints
+    - Login
+    - Signup
+    - Create post
+    - Get posts
+    - Create comments
+    - Get Comments
+    - Likes or dislikes posts
+    - Likes or dislikes comments
+    - Delete post
+    - Get Post by Id
+    - Get Comment with Post By Id
+    
+- Autenticação e Autorização
+    - Geração de UUID
+    - Geração de hashes
+
+- Código
+    - POO (Programação Orientada a Objetos)
+    - Arquitetura em Camadas
+
 Aplicação back-end de servidor express com banco de dados sqlite3.
 
 ## Métodos
