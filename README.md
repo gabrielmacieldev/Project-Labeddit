@@ -2,6 +2,9 @@
 
 Link do repositório do frontend: https://github.com/gabrielmacieldev/project-labeddit-frontend
 
+## 🗃️ Frontend
+[Link do repositório do frontend](https://github.com/gabrielmacieldev/project-labeddit-frontend)
+
 Link do deploy da aplicação no surge: https://project-labeddit-gabrielmaciel.surge.sh/
 
 Aplicação back-end de servidor express com banco de dados sqlite3.
