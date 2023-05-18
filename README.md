@@ -1,13 +1,12 @@
 # Project-Labeddit-backend
 
-
 ## 🗃️ Frontend
-[Link do repositório do frontend](https://github.com/gabrielmacieldev/project-labeddit-frontend)
+[Frontend repository link](https://github.com/gabrielmacieldev/project-labeddit-frontend)
 
 ## 💿 Deploy 
-[Link da aplicação](https://project-labeddit-gabrielmaciel.surge.sh/)
+[Application Link](https://project-labeddit-gabrielmaciel.surge.sh/)
 
-## 💻 Funcionalidades do Projeto
+## 💻 Project Features:
 
 - Endpoints
     - Login
@@ -22,38 +21,38 @@
     - Get Post by Id
     - Get Comment with Post By Id
     
-- Autenticação e Autorização
-    - Geração de UUID
-    - Geração de hashes
+- Authentication and Authorization:
+    - UUID Generation: Generating UUIDs
+    - Hash Generation: Generating hashes
 
-- Código
-    - POO (Programação Orientada a Objetos)
-    - Arquitetura em Camadas
+- Code
+    - OOP (Object-Oriented Programming)
+    - Layered Architecture
+    
+Express server backend application with SQLite3 database
 
-Aplicação back-end de servidor express com banco de dados sqlite3.
+## Methods
 
-## Métodos
-Requisições para a API devem seguir os padrões:
-| Método | Descrição |
+Requests to the API should follow the following standards:
+
+| Method | Description |
 |---|---|
-| `GET` | Retorna informações de um ou mais registros. |
-| `POST` | Utilizado para criar um novo registro. |
-| `PUT` | Atualiza dados de um registro ou altera sua situação. |
-| `DELETE` | Remove um registro do sistema. |
+| `GET` | Retrieves information of one or more records. |
+| `POST` | Used to create a new record. |
+| `PUT` | Updates data of a record or changes its status. |
+| `DELETE` | Removes a record from the system. |
 
-## Respostas
+## Responses
 
-| Código | Descrição |
+| Code | Description |
 |---|---|
-| `200` | Requisição executada com sucesso (success).|
-| `201` | Recurso criado com sucesso (success).|
-| `400` | Erros de validação ou os campos informados não existem no sistema.|
-| `404` | Registro pesquisado não encontrado (Not found).|
+| `200` | Successful request execution (success).|
+| `201` | Resource created sucessfully (success).|
+| `400` | Validation errors or the provided fields do not exist in the system.|
+| `404` | Searched record not found (Not found).|
 
+## Documentation
+[Documentation Link](https://documenter.getpostman.com/view/24460918/2s93RZL9f1)
 
-## Documentação
-[Link Documentação](https://documenter.getpostman.com/view/24460918/2s93RZL9f1)
-
-## Autor
-
+## Author
  [Linkedin](https://www.linkedin.com/in/gabrielmacieldev/)
